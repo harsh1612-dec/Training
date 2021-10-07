@@ -1,0 +1,48 @@
+.img{
+    text-align: center;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+ th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+
+p{
+    text-align: center;
+}
+
+form{
+    margin-left: 75px;
+}
+.button{
+    margin-left: 100px;
+    margin-bottom: 50px;
+}
+
+.mail{
+    float: right;
+    margin-top: -35px;
+    margin-right: 20px
+}
+
+#name{
+    margin-left: 15px;
+}
+
+ul.a{
+    list-style-type: circle;
+}
+ol.b{
+    list-style-type: decimal-leading-zero;
+}
